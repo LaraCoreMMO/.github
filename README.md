@@ -5,7 +5,7 @@
   
 LaraCoreMMO is an open-source project dedicated to building 2D MMORPGs, inspired by Tibia. Since 2025, we’ve been creating a scalable, customizable platform with Laravel 12+, PHP 8.3+, and WebSockets for real-time gameplay.
 
-## 🌟 Key Features
+## Key Features
 
 * Backend: Laravel 12, Socket.IO, Laravel Echo Server
 * Frontend: Phaser.js or PixiJS for smooth 2D rendering
